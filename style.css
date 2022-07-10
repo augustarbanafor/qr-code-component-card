@@ -76,6 +76,6 @@ img {
         max-width: 375px;
     } 
     .qr-code-component {
-        height: 92vh;
+        height: 95%;
     }
 }
